@@ -13,7 +13,7 @@ you can easily do this by following these steps:
 
 1- Under your $Liferay_HOME/tomcat-version/webapps/notifications-portlet/WEB-INF/classes, create portlet-ext.properties.
 
-2- Edit portlet-ext.properties file then add then following Line:
+2- Edit portlet-ext.properties file then add the following line:
 
 
     user.notifications.dockbar.display.enabled=false

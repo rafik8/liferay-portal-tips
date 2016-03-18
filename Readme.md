@@ -19,7 +19,7 @@ you can easily do this by following these steps:
     user.notifications.dockbar.display.enabled=false
 
 
-3- Restart you portal.
+3- Restart your portal.
 
 4- check the user dockbar.
 
